@@ -1,5 +1,22 @@
 # Notepad
 
+# Clone the repository from Github - Blank preferred
+Open Visual code
+
+# Run commands
+ng new notepad
+npm install -g @angular/cli in the Visual Code 
+cd notepad
+ng serve --open
+
+# Adding a remote repository
+git remote add origin https://github.com/ssuryar/notepad.git
+
+git remote -v
+# View existing remotes
+> origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+> origin  https://github.com/OWNER/REPOSITORY.git (push)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
