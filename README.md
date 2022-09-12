@@ -1,7 +1,27 @@
-# notepad
+# Notepad
 
-Notepad Application
---------------------------
-A note-taking app is like a digital notebook where you can create and store notes. You can jot down text in the app and view it upon returning to the window, editing, or deleting the records if required. The notes are organized according to the dates when users have last opened them.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
-A notepad project is a classic instance of Angular development in practice. You can build it with NodeJs, Angular CLI, and Bootstrap (using Node Package Manager). 
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
