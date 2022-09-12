@@ -1,4 +1,4 @@
-# Notepad
+# Notepad - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 # Clone the repository from Github - Blank preferred
 Open Visual code
@@ -23,12 +23,6 @@ git remote -v
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
-
-# Final
-
-ng serve --open
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
 
